@@ -1,7 +1,7 @@
 # Minecraft Pi Projects with Python and mcpi module
 
 
-### First of all! Get [mcpi API Reference](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+### First of all! Get [mcpi API reference](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
 
 
 ## picameraintominecraft.py
