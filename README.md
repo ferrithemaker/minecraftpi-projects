@@ -6,7 +6,7 @@
 
 ## picameraintominecraft.py
 
-With this script you can render an image (from a file or captured from live a picamera) to a minecraft world.
+With this script you can render an image (from a local file or captured from picamera live picture) to a minecraft world.
 
 ## diamondswithflowerspath.py
 
