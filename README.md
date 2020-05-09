@@ -12,6 +12,8 @@ With this script you can render an image (from a local file or captured from pic
 
 A path of diamonds and yellow flowers follows you. Try to jump!
 
+## buildyourhouse.py
 
+Build your Minecraft house undestanding how nested loops work
 
 
