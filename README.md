@@ -14,6 +14,8 @@ A path of diamonds and yellow flowers follows you. Try to jump!
 
 ## buildyourhouse.py
 
-Build your Minecraft house undestanding how nested loops work
+Build your Minecraft house undestanding how nested loops work.
 
+## elevator.py
 
+Create a Minecraft elevator.
