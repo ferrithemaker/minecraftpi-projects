@@ -19,3 +19,7 @@ Build your Minecraft house undestanding how nested loops work.
 ## elevator.py
 
 Create a Minecraft elevator.
+
+## deathblast.py
+
+Managing events to throw a vaporizer blast arround you when the player press the mouse right button. 
