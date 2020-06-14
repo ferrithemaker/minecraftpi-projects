@@ -22,4 +22,4 @@ Create a Minecraft elevator.
 
 ## deathblast.py
 
-Managing events to throw a vaporizer blast arround you when the player press the mouse right button. 
+Learn how to manage events to throw a vaporizer blast arround you when the player presses the mouse right button. 
